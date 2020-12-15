@@ -1,0 +1,436 @@
+,Nom,Note,Auteur,Genre,Nombre de saisons,Plateforme,Durée,Date de sortie,Mois,Année
+0,Sherlock,8.1,Série de   Mark Gatiss et   Steven Moffat,"['policier', 'drame', 'thriller']",5.0,BBC One,90.0,"['25', 'juillet', '2010']",juillet,2010
+1,The Walking Dead,6.7,Série de   Frank Darabont,"['épouvante-horreur', 'drame']",10.0,AMC,43.0,"['11', 'octobre', '2010']",octobre,2010
+2,Boardwalk Empire,7.6,Série de   Terence Winter,['drame'],5.0,HBO,60.0,"['19', 'septembre', '2010']",septembre,2010
+3,Luther,7.6,Série de   Neil Cross,"['policier', 'drame']",5.0,BBC One,60.0,"['4', 'mai', '2010']",mai,2010
+4,Band of Brothers : L'enfer du Pacifique,7.5,Série de   Bruce McKenna,"['mini-série', 'drame', 'guerre']",1.0,HBO,50.0,"['14', 'mars', '2010']",mars,2010
+5,Downton Abbey,7.6,Série de   Julian Fellowes,['drame'],6.0,ITV,60.0,"['26', 'septembre', '2010']",septembre,2010
+6,Spartacus,6.7,Série de   Steven S. DeKnight,"['action', 'drame', 'historique']",3.0,Starz,60.0,"['22', 'janvier', '2010']",janvier,2010
+7,Game of Thrones,8.2,Série de   David Benioff et   D.B. Weiss,"['aventure', 'drame', 'fantasy']",8.0,HBO,52.0,"['5', 'décembre', '2010']",décembre,2010
+8,Treme,8.1,Série de   David Simon et   Eric Overmyer,['drame'],4.0,HBO,60.0,"['11', 'avril', '2010']",avril,2010
+9,Justified,7.2,Série de   Graham Yost,"['policier', 'drame', 'action']",6.0,FX,45.0,"['16', 'mars', '2010']",mars,2010
+10,Louie,7.7,Série de   Louis C.K.,"['comédie', 'drame']",5.0,FX,25.0,"['29', 'juin', '2010']",juin,2010
+11,Rubicon,7.5,Série de   Jason Horwitch,"['thriller', 'policier', 'drame']",1.0,AMC,60.0,"['13', 'juin', '2010']",juin,2010
+12,"Borgen, une femme au pouvoir",7.8,Série de   Adam Price,['drame'],3.0,DR1,59.0,"['26', 'septembre', '2010']",septembre,2010
+13,La Ligue des justiciers : Nouvelle Génération,7.4,Dessin animé de   Greg Weisman et   Brandon Vietti,"['action', 'animation', 'jeunesse']",2.0,DC Universe,25.0,"['26', 'novembre', '2010']",novembre,2010
+14,Les Piliers de la Terre,7.1,Série de   John Pielmeier,"['thriller', 'drame', 'mini-série']",1.0,Starz,60.0,"['23', 'juillet', '2010']",juillet,2010
+15,The Tatami Galaxy,8.3,Anime de   Masaaki Yuasa,"['animation', 'comédie']",1.0,Fuji TV,25.0,"['23', 'avril', '2010']",avril,2010
+16,Faux Raccord,7.4,Émission Web,"['comédie', 'documentaire', 'mini-série']",8.0,Allociné,10.0,"['15', 'janvier', '2010']",janvier,2010
+17,This is England,7.9,Série de   Shane Meadows,"['mini-série', 'policier', 'drame']",3.0,Channel 4,60.0,"['7', 'septembre', '2010']",septembre,2010
+18,La Folle Histoire du Palmashow,7.4,"Émission TV de   Grégoire Ludig,   David Marsais et   Jonathan Barré",['comédie'],Inconnu,Direct 8,6.0,"['26', 'septembre', '2010']",septembre,2010
+19,Raising Hope,6.9,Série de   Gregory Thomas Garcia,['comédie'],4.0,FOX (US),25.0,"['21', 'septembre', '2010']",septembre,2010
+20,How to Make It in America,6.9,Série de   Ian Edelman,"['comédie', 'dramatique']",2.0,HBO,30.0,"['14', 'février', '2010']",février,2010
+21,Ugly Americans,7.7,Dessin animé de   David M. Stern et   Devin Clark,"['comédie', 'animation']",2.0,Comedy Central (US),25.0,"['17', 'mars', '2010']",mars,2010
+22,Rizzoli et Isles,5.8,Série de   Tess Gerritsen et   Janet Tamaro,"['policier', 'drame']",7.0,TNT (US),45.0,"['12', 'juillet', '2010']",juillet,2010
+23,Scooby-Doo : Mystères associés,6.2,Dessin animé de   Joe Ruby et   Ken Spears,"['comédie', 'jeunesse', 'animation']",2.0,Cartoon Network,25.0,"['12', 'juillet', '2010']",juillet,2010
+24,Strike Back,6.7,Série de   Andy Harries,"['action', 'aventure', 'drame']",8.0,Cinemax,45.0,"['5', 'mai', '2010']",mai,2010
+25,Millenium,7.6,Série de   Daniel Alfredson et   Niels Arden Oplev,"['thriller', 'policier', 'action']",1.0,SVT,90.0,"['20', 'mars', '2010']",mars,2010
+26,Maison close,6.1,Série de   Jacques Ouaniche,['drame'],2.0,Canal+,55.0,"['4', 'octobre', '2010']",octobre,2010
+27,Pretty Little Liars,5.2,Série de   I. Marlene King,"['drame', 'thriller']",7.0,Freeform,45.0,"['8', 'juin', '2010']",juin,2010
+28,Hawaii 5-0,5.0,"Série de   Roberto Orci,   Peter M. Lenkov et   Alex Kurtzman","['policier', 'comédie', 'action']",10.0,CBS,45.0,"['20', 'septembre', '2010']",septembre,2010
+29,Avengers : L'équipe des Super Héros,6.5,"Dessin animé de   Joshua Fine,   Jack Kirby et   Stan Lee","['action', 'animation', 'fantasy']",2.0,Disney XD,25.0,"['8', 'octobre', '2010']",octobre,2010
+30,Rainbow,7.8,"Anime de   Hiroshi Kôjina,   Masasumi Kakizaki et   George Abe","['thriller', 'drame', 'historique']",1.0,NTV (JP),25.0,"['6', 'avril', '2010']",avril,2010
+31,Bakuman.,7.3,Anime de   Kasai Ken'ichi et   Akitaya Noriaki,"['romance', 'shōnen', 'comédie']",3.0,AnimeDigitalNetwork,25.0,"['2', 'octobre', '2010']",octobre,2010
+32,Shameless (US),7.6,Série de   Paul Abbott,"['comédie', 'drame']",11.0,Showtime,60.0,"['12', 'décembre', '2010']",décembre,2010
+33,Nikita,5.7,Série de   Craig Silverstein,"['policier', 'drame', 'action']",4.0,The CW,45.0,"['9', 'septembre', '2010']",septembre,2010
+34,Black Lagoon: Roberta`s Blood Trail,7.3,"Anime (OAV) de   Rei Hiroe,   Shino Masanori et   Sunao Katabuchi","['drame', 'action', 'animation']",1.0,Inconnue,33.0,"['27', 'juin', '2010']",juin,2010
+35,Terriers,7.5,Série de   Ted Griffin,['drame'],1.0,FX,45.0,"['8', 'septembre', '2010']",septembre,2010
+36,Angel Beats!,7.0,"Anime de   Na-Ga,   Seiji Kishi et   Jun Maeda","['animation', 'drame', 'seinen']",1.0,Tokyo Broadcasting System,25.0,"['2', 'avril', '2010']",avril,2010
+37,The Event,5.5,Série de   Nick Wauters,"['action', 'aventure', 'drame']",1.0,NBC,45.0,"['20', 'septembre', '2010']",septembre,2010
+38,Epic Rap Battles of History,7.1,Émission Web de   Epic Lloyd et   Nice Peter,['comédie'],Inconnu,YouTube,10.0,"['26', 'septembre', '2010']",septembre,2010
+39,Les Mystères de Haven,6.1,Série de   Scott Shepherd,"['fantastique', 'policier', 'science-fiction']",5.0,SyFy,45.0,"['9', 'juillet', '2010']",juillet,2010
+40,High School of the Dead,6.0,"Anime de   Tetsurō Araki,   Daisuke Satô et   Shôji Satô (mangaka)","['shōnen', 'action', 'romance']",1.0,TV Tokyo,25.0,"['27', 'juin', '2010']",juin,2010
+41,Blue Bloods,5.8,Série de   Mitchell Burgess et   Robin Green,"['policier', 'drame']",11.0,CBS,45.0,"['24', 'septembre', '2010']",septembre,2010
+42,Blue Mountain State,6.9,Série de   Eric Falconer et   Chris Romano,"['comédie', 'sport']",3.0,Paramount Network,25.0,"['11', 'janvier', '2010']",janvier,2010
+43,Cyanide & Happiness Shorts,7.7,"Émission Web de   Dave McElfatrick,   Rob Denbleyker,   Matt Melvin...","['comédie', 'animation']",1.0,YouTube,2.0,"['1', 'février', '2010']",février,2010
+44,Panty & Stocking with Garterbelt,7.6,Anime de   Gainax et   Hiroyuki Imaishi,"['animation', 'comédie', 'action']",1.0,Tokyo MX,25.0,"['2', 'octobre', '2010']",octobre,2010
+45,Parlons VF,7.5,Émission Web de   Misterfox,"['documentaire', 'mini-série']",4.0,YouTube,20.0,"['1', 'septembre', '2010']",septembre,2010
+46,Carlos,7.2,Série de   Daniel Leconte et   Olivier Assayas,"['biopic', 'thriller', 'policier']",1.0,Canal+,104.0,"['19', 'mai', '2010']",mai,2010
+47,Cobra The Animation,7.0,Anime de   Buichi Terasawa,['animation'],1.0,BS11,25.0,"['2', 'janvier', '2010']",janvier,2010
+48,Dragons et Princesses,7.9,Série de   Michel Ocelot,"['animation', 'jeunesse', 'fantasy']",1.0,Canal + Family,13.0,"['25', 'octobre', '2010']",octobre,2010
+49,Black Butler II,6.3,Anime de   Hirofumi Ogura et   Yana Toboso,"['animation', 'comédie', 'drame']",1.0,Tokyo Broadcasting System,25.0,"['1', 'juillet', '2010']",juillet,2010
+50,J'ai jamais su dire non,6.9,Websérie de   Slimane-Baptiste Berhoun,['comédie'],1.0,YouTube,10.0,"['11', 'avril', '2010']",avril,2010
+51,My Little Pony: Les Amies c'est Magique!,5.7,Dessin animé de   Lauren Faust,"['aventure', 'animation', 'jeunesse']",5.0,Discovery Family,25.0,"['10', 'octobre', '2010']",octobre,2010
+52,Lip Service,6.5,Série de   Harriet Braun,['drame'],2.0,BBC Three,60.0,"['12', 'octobre', '2010']",octobre,2010
+53,Clem,4.2,Série de   Joyce Buñuel,"['comédie', 'drame']",10.0,TF1,55.0,"['22', 'février', '2010']",février,2010
+54,Parenthood,6.9,Série de   Jason Katims,['drame'],6.0,NBC,45.0,"['2', 'mars', '2010']",mars,2010
+55,L'ANALYSE de MisterJDay,7.3,Émission Web de   MisterJDay,['comédie'],6.0,YouTube,15.0,"['22', 'novembre', '2010']",novembre,2010
+56,Mongrels,7.8,Série de   Adam Miller,['comédie'],2.0,BBC Three,30.0,"['22', 'juin', '2010']",juin,2010
+57,Shiki,7.3,"Anime de   Tetsuro Amino,   Ochi Shinji,   Fuyumi Ono...","['fantastique', 'seinen', 'animation']",1.0,Fuji TV,25.0,"['9', 'juillet', '2010']",juillet,2010
+58,Beelzebub,6.8,Anime de   Tamura Ryuuhei et   Nobuhiro Takamoto,"['animation', 'comédie', 'fantastique']",1.0,Animax,25.0,"['23', 'octobre', '2010']",octobre,2010
+59,"Hatufim, prisonniers de guerre",7.6,Série de   Gideon Raff,['drame'],2.0,Keshet,60.0,"['6', 'mars', '2010']",mars,2010
+60,Secret Garden,7.1,Drama de   Shin Woo-Cheol et   Kwon Hyuk-Chan,"['comédie', 'drame', 'fantasy']",1.0,SBS (KR),70.0,"['13', 'novembre', '2010']",novembre,2010
+61,Zig et Sharko,5.5,Dessin animé de   Olivier Jean-Marie,['animation'],1.0,Gulli,7.0,"['21', 'décembre', '2010']",décembre,2010
+62,Super Hero Family,5.3,Série de   Greg Berlanti et   Jon Harmon Feldman,"['drame', 'fantasy']",1.0,ABC (US),45.0,"['21', 'août', '2010']",août,2010
+63,Les Invincibles,6.9,Série de   Jean-François Rivard et   François Létourneau,['comédie'],2.0,Arte,50.0,"['9', 'mars', '2010']",mars,2010
+64,Life Unexpected,6.0,Série de   Liz Tigelaar,['drame'],2.0,The CW,45.0,"['18', 'janvier', '2010']",janvier,2010
+65,The Hard Times of RJ Berger,5.8,Série de   Seth Grahame-Smith et   David Katzenberg,['comédie'],2.0,MTV (US),25.0,"['6', 'juin', '2010']",juin,2010
+66,Hot in Cleveland,6.0,Série de   Suzanne Martin,['comédie'],6.0,TV Land,25.0,"['16', 'juin', '2010']",juin,2010
+67,Come Fly With Me,7.7,Série de   David Walliams et   Matt Lucas,['comédie'],1.0,BBC One,30.0,"['25', 'décembre', '2010']",décembre,2010
+68,Vous les femmes,5.4,Série,"['comédie', 'mini-série']",3.0,téva,2.0,"['13', 'mars', '2010']",mars,2010
+69,The Gates,5.5,Série de   Richard Hatem,"['fantastique', 'policier', 'drame']",1.0,ABC (US),45.0,"['20', 'juin', '2010']",juin,2010
+70,Durarara!!,7.6,Anime de   Brain's Base et   Ryohgo Narita,"['seinen', 'action', 'comédie']",2.0,MBS,25.0,"['8', 'janvier', '2010']",janvier,2010
+71,Les Recrues de la 15e,6.3,"Série de   Tassie Cameron,   Morwyn Brebner et   Ellen Vanstone","['policier', 'drame']",6.0,Global,43.0,"['24', 'juin', '2010']",juin,2010
+72,Timbré (Terry Pratchett's Going Postal),7.5,"Série de   Richard Kurti,   Bev Doyle et   Terry Pratchett","['mini-série', 'comédie', 'fantastique']",1.0,Sky1,120.0,"['30', 'mai', '2010']",mai,2010
+73,Caprica,6.2,Série de   Remi Aubuchon et   Ronald D. Moore,['science-fiction'],1.0,SyFy,45.0,"['22', 'janvier', '2010']",janvier,2010
+74,The Big C,7.3,Série de   Darlene Hunt,"['comédie', 'drame']",4.0,Showtime,30.0,"['16', 'août', '2010']",août,2010
+75,L'histoire racontée par des chaussettes,6.7,Websérie de   Sébastien De Dominicis (Dédo) et   Yacine Belhousse,"['mini-série', 'comédie']",Inconnu,YouTube,3.0,"['29', 'octobre', '2010']",octobre,2010
+76,Storage Wars : Enchères surprises,5.2,Émission TV,['documentaire'],8.0,A&E,25.0,"['1', 'décembre', '2010']",décembre,2010
+77,Les Octonauts,5.6,Série,"['action', 'aventure', 'animation']",3.0,CBeebies,25.0,"['4', 'octobre', '2010']",octobre,2010
+78,Vsauce,8.3,Émission Web de   Michael Stevens,['documentaire'],Inconnu,YouTube,30.0,"['24', 'juin', '2010']",juin,2010
+79,Darker Than Black: Gemini of the Meteor : Black Contractor: Gaiden OVA,7.2,"Anime (OAV) de   Yûji Iwahara,   Komori Takahiro et   Tensai Okamura","['science-fiction', 'drame', 'action']",1.0,Inconnue,25.0,"['27', 'janvier', '2010']",janvier,2010
+80,Sungkyunkwan Scandal,7.6,Drama de   Hwang In-Hyuk et   Kim Won-suk,"['comédie', 'mini-série', 'drame']",1.0,KBS TV2,45.0,"['30', 'août', '2010']",août,2010
+81,Total Drama World Tour,Inconnu,Dessin animé,"['comédie', 'animation']",Inconnu,Teletoon,30.0,"['10', 'juin', '2010']",juin,2010
+82,Lost Girl,5.9,Série de   Michelle Lovretta,"['policier', 'drame', 'fantasy']",5.0,Showcase (CA),45.0,"['31', 'août', '2010']",août,2010
+83,K-On !!,7.0,Anime de   Kyoto Animation et   Naoko Yamada,"['musique', 'comédie', 'animation']",Inconnu,Tokyo Broadcasting System,25.0,"['7', 'avril', '2010']",avril,2010
+84,JonTron,7.5,Série de   Jon Jafari,['comédie'],Inconnu,YouTube,15.0,"['31', 'août', '2010']",août,2010
+85,Stupide Touriste,7.4,Série de   Ricky Gervais et   Stephen Merchant,"['comédie', 'documentaire']",3.0,Sky1,60.0,"['5', 'septembre', '2010']",septembre,2010
+86,Seitokai Yakuindomo,6.3,Anime de   Hiromitsu Kanazawa et   Tozen Ujiie,"['animation', 'comédie']",2.0,CTC (JA),25.0,"['4', 'juillet', '2010']",juillet,2010
+87,Love/Hate,7.6,Série de   Stuart Carolan,"['policier', 'drame']",5.0,RTÉ One,50.0,"['3', 'octobre', '2010']",octobre,2010
+88,Quand l'histoire fait dates,8.2,Émission TV de   Patrick Boucheron et   Denis Van Waerebeke,"['documentaire', 'historique']",1.0,Arte,27.0,"['17', 'mars', '2018']",mars,2018
+89,"Blow Up, l'actualité du cinéma (ou presque)",8.3,Websérie de   Luc Lagier,['documentaire'],7.0,Arte,10.0,"['octobre', '2010']",octobre,2010
+90,Enquêtes archéologiques,7.6,Émission TV de   Agnès Molia et   Nathalie Laville,['documentaire'],2.0,Arte,25.0,"['18', 'juin', '2016']",juin,2016
+91,Mobile Suit Gundam Unicorn,7.8,Anime (OAV) de   Kazuhiro Furuhashi,['animation'],1.0,Inconnue,25.0,"['20', 'février', '2010']",février,2010
+92,The Ricky Gervais Show,7.5,"Série de   Ricky Gervais,   Stephen Merchant et   Karl Pilkington","['comédie', 'animation']",3.0,HBO,25.0,"['19', 'février', '2010']",février,2010
+93,Arakawa Under the Bridge,7.1,Anime de   Yukihiro Yamamoto,"['romance', 'comédie', 'animation']",Inconnu,TV Tokyo,25.0,"['4', 'avril', '2010']",avril,2010
+94,Persons Unknown,5.7,Série de   Christopher McQuarrie,"['drame', 'thriller']",1.0,NBC,45.0,"['7', 'juin', '2010']",juin,2010
+95,Black Mirror,8.1,Série de   Charlie Brooker,"['science-fiction', 'thriller', 'anthologique']",5.0,Netflix,60.0,"['4', 'décembre', '2011']",décembre,2011
+96,Bref.,7.2,Série de   Bruno Muschio et   Kyan Khojandi,"['comédie', 'mini-série']",1.0,Canal+,2.0,"['28', 'août', '2011']",août,2011
+97,Homeland,7.0,Série de   Alex Gansa et   Howard Gordon,"['thriller', 'action', 'drame']",8.0,Showtime,50.0,"['2', 'octobre', '2011']",octobre,2011
+98,American Horror Story,7.0,Série de   Ryan Murphy et   Brad Falchuk,"['thriller', 'épouvante-horreur', 'anthologique']",9.0,FX,45.0,"['6', 'février', '2011']",février,2011
+99,Person of Interest,6.6,Série de   Jonathan Nolan,"['action', 'aventure', 'drame']",5.0,CBS,43.0,"['22', 'septembre', '2011']",septembre,2011
+100,Suits : Avocats sur mesure,7.0,Série de   Aaron Korsh,"['judiciaire', 'comédie', 'drame']",9.0,USA Network,45.0,"['23', 'juin', '2011']",juin,2011
+101,The Killing (US),7.6,Série de   Veena Sud,"['thriller', 'policier', 'drame']",4.0,Netflix,50.0,"['3', 'avril', '2011']",avril,2011
+102,New Girl,6.6,Série de   Elizabeth Meriwether,['comédie'],7.0,FOX (US),25.0,"['20', 'septembre', '2011']",septembre,2011
+103,Hunter x Hunter,8.1,Anime de   Hiroshi Koujina et   Yoshihiro Togashi,"['shōnen', 'comédie', 'aventure']",Inconnu,NTV (JP),25.0,"['2', 'octobre', '2011']",octobre,2011
+104,Once Upon a Time,5.6,Série de   Adam Horowitz et   Edward Kitsis,"['aventure', 'drame', 'fantasy']",7.0,ABC (US),43.0,"['23', 'octobre', '2011']",octobre,2011
+105,Platane,6.3,Série de   Hafid F. Benamar et   Eric Judor,['comédie'],3.0,Canal+,25.0,"['5', 'septembre', '2011']",septembre,2011
+106,Falling Skies,5.6,Série de   Robert Rodat,"['science-fiction', 'thriller', 'action']",5.0,TNT (US),45.0,"['19', 'juin', '2011']",juin,2011
+107,Hell on Wheels,7.0,Série de   Joe Gayton et   Tony Gayton,"['western', 'drame', 'action']",5.0,AMC,45.0,"['6', 'novembre', '2011']",novembre,2011
+108,Bron,7.8,"Série de   Hans Rosenfeldt,   Björn Stein,   Henrik Georgsson...","['policier', 'drame']",4.0,DR1,60.0,"['21', 'septembre', '2011']",septembre,2011
+109,Grimm,5.9,"Série de   Stephen Carpenter,   David Greenwalt et   Jim Kouf","['fantastique', 'épouvante-horreur', 'drame']",6.0,NBC,43.0,"['28', 'octobre', '2011']",octobre,2011
+110,Steins;Gate,8.0,"Anime de   Kobayashi Tomoki,   HUKE,   Kyūta Sakai...","['drame', 'comédie', 'romance']",1.0,TV Tokyo,25.0,"['6', 'avril', '2011']",avril,2011
+111,Very Bad Blagues,7.2,Émission TV de   Palmashow,"['comédie', 'mini-série']",Inconnu,Direct 8,5.0,"['21', 'mars', '2011']",mars,2011
+112,Spartacus : Les Dieux de l'arène,6.9,Série de   Steven S. DeKnight,"['drame', 'action']",1.0,Starz,55.0,"['21', 'janvier', '2011']",janvier,2011
+113,Terra Nova,4.7,Série de   Kelly Marcel et   Craig Silverstein,"['action', 'aventure', 'fantasy']",1.0,FOX (US),45.0,"['26', 'septembre', '2011']",septembre,2011
+114,Teen Wolf,5.4,Série de   Jeff Davis,"['action', 'aventure', 'comédie']",6.0,MTV (US),42.0,"['5', 'juin', '2011']",juin,2011
+115,The Booth at the End,7.7,Série de   Christopher Kubasik,['drame'],2.0,City,25.0,"['11', 'juillet', '2011']",juillet,2011
+116,2 Broke Girls,6.1,Série de   Michael Patrick King et   Whitney Cummings,['comédie'],6.0,CBS,25.0,"['19', 'septembre', '2011']",septembre,2011
+117,Alphas,5.9,Série de   Zak Penn et   Michael Karnow,"['science-fiction', 'drame', 'action']",2.0,SyFy,45.0,"['11', 'juillet', '2011']",juillet,2011
+118,The Hour,7.6,Série de   Abi Morgan,['drame'],2.0,BBC Two,60.0,"['19', 'juillet', '2011']",juillet,2011
+119,Puella Magi Madoka Magica,7.9,"Anime de   Yukihiro Yamamoto,   Akiyuki Shinbo,   Ume Aoki...","['fantastique', 'drame', 'animation']",1.0,Tokyo Broadcasting System,25.0,"['7', 'janvier', '2011']",janvier,2011
+120,The Borgias,6.5,Série de   Neil Jordan,['drame'],3.0,Showtime,50.0,"['3', 'avril', '2011']",avril,2011
+121,Don't Hug Me I'm Scared,8.1,Websérie de   Joseph Pelling et   Becky Sloan,"['comédie', 'épouvante-horreur', 'animation']",Inconnu,YouTube,5.0,"['25', 'juillet', '2011']",juillet,2011
+122,Mildred Pierce,7.4,Série de   Todd Haynes,"['drame', 'mini-série']",1.0,HBO,55.0,"['27', 'mars', '2011']",mars,2011
+123,Wilfred (US),7.1,Série de   Jason Gann et   Adam Zwar,"['fantastique', 'comédie', 'dramatique']",4.0,FX,30.0,"['23', 'juin', '2011']",juin,2011
+124,Apocalypse : Hitler,7.6,Série de   Isabelle Clarke et   Daniel Costelle,"['mini-série', 'historique', 'guerre']",1.0,France 2,55.0,"['25', 'octobre', '2011']",octobre,2011
+125,Episodes,6.5,Série de   David Crane et   Jeffrey Klarik,['comédie'],5.0,Showtime,25.0,"['9', 'janvier', '2011']",janvier,2011
+126,3615 Usul,7.5,Émission Web de   Dorian Chandelier et   Usul,['comédie'],2.0,jeuxvideo.com,8.0,"['23', 'octobre', '2011']",octobre,2011
+127,Life's Too Short,7.1,"Série de   Warwick Davis,   Ricky Gervais et   Stephen Merchant",['comédie'],1.0,BBC Two,30.0,"['10', 'novembre', '2011']",novembre,2011
+128,BOSS,7.6,Série de   Farhad Safinia,"['policier', 'drame']",2.0,Starz,60.0,"['21', 'octobre', '2011']",octobre,2011
+129,Body of Proof,5.4,Série de   Christopher Murphey,"['policier', 'drame']",3.0,ABC (US),45.0,"['29', 'mars', '2011']",mars,2011
+130,Le Monde Incroyable de Gumball,7.6,Dessin animé de   Benjamin Bocquelet,"['animation', 'jeunesse', 'comédie']",5.0,Cartoon Network,10.0,"['3', 'mai', '2011']",mai,2011
+131,Death Valley,6.8,Série de   Curtis Gwinn,"['comédie', 'épouvante-horreur']",1.0,MTV (US),25.0,"['29', 'août', '2011']",août,2011
+132,Revenge,5.9,Série de   Mike Kelley,"['drame', 'thriller']",4.0,ABC (US),45.0,"['11', 'septembre', '2011']",septembre,2011
+133,Anohana,7.6,"Anime de   Chouheiwa Busters,   Masayoshi Tanaka et   Tatsuyuki Nagai","['comédie', 'romance', 'animation']",1.0,Fuji TV,20.0,"['15', 'avril', '2011']",avril,2011
+134,Top Boy,7.8,Série de   Ronan Bennett,['drame'],3.0,Channel 4,50.0,"['31', 'octobre', '2011']",octobre,2011
+135,La Gifle,7.3,Série de   Christos Tsiolkas,"['mini-série', 'drame']",1.0,ABC (AU),60.0,"['6', 'octobre', '2011']",octobre,2011
+136,Borgia,6.5,Série de   Tom Fontana,"['drame', 'historique']",3.0,Sky Atlantic (IT),50.0,"['10', 'octobre', '2011']",octobre,2011
+137,Fate/zero,7.6,"Anime de   Aoki Ei,   Gen Urobuchi et   Takeuchi Takashi","['animation', 'drame', 'fantastique']",1.0,Tokyo MX,25.0,"['2', 'octobre', '2011']",octobre,2011
+138,Awkward,5.8,Série de   Lauren Iungerich,"['comédie', 'dramatique']",5.0,MTV (US),25.0,"['19', 'juillet', '2011']",juillet,2011
+139,Suburgatory,6.2,Série de   Emily Kapnek,['comédie'],3.0,ABC (US),25.0,"['28', 'septembre', '2011']",septembre,2011
+140,The Shadow Line,7.6,Série de   Hugo Blick,"['mini-série', 'policier', 'drame']",1.0,BBC Two,60.0,"['5', 'mai', '2011']",mai,2011
+141,Meurtres au paradis,6.3,Série de   Robert Thorogood,"['comédie', 'policier', 'aventure']",10.0,BBC One,60.0,"['25', 'octobre', '2011']",octobre,2011
+142,Hart of Dixie,5.8,Série de   Leila Gerstein,"['comédie', 'dramatique', 'romance']",4.0,The CW,45.0,"['26', 'septembre', '2011']",septembre,2011
+143,De grandes espérances,6.7,Série de   Sarah Phelps et   Charles Dickens,"['romance', 'mini-série', 'drame']",1.0,BBC One,60.0,"['27', 'décembre', '2011']",décembre,2011
+144,Mawaru Penguindrum,7.9,"Anime de   Kunihiko Ikuhara,   Shōko Nakamura et   Lily Hoshino","['fantastique', 'romance', 'animation']",1.0,MBS,25.0,"['3', 'juillet', '2011']",juillet,2011
+145,Luck,6.7,Série de   David Milch,['drame'],1.0,HBO,60.0,"['11', 'décembre', '2011']",décembre,2011
+146,J'irai dormir en Amérique,7.8,Série de   Antoine de Maximy,['documentaire'],1.0,France 5,26.0,"['19', 'décembre', '2011']",décembre,2011
+147,Soda,3.2,"Série de   Franck Bellocq,   David Soussan,   Kev Adams...","['comédie', 'comédie']",3.0,W9,3.0,"['4', 'juillet', '2011']",juillet,2011
+148,Mad Dogs,6.8,Série de   Cris Cole,"['comédie', 'policier', 'drame']",4.0,Sky1,45.0,"['10', 'février', '2011']",février,2011
+149,Grand Hôtel,7.3,Série de   Ramón Campos,"['policier', 'drame']",3.0,Antena 3,75.0,"['4', 'octobre', '2011']",octobre,2011
+150,Game Theory,6.9,Émission Web de   Matthew Patrick,"['comédie', 'documentaire']",Inconnu,YouTube,15.0,"['18', 'avril', '2011']",avril,2011
+151,Enlightened : illuminée,6.7,Série de   Mike White et   Laura Dern,"['comédie', 'dramatique']",2.0,HBO,30.0,"['10', 'octobre', '2011']",octobre,2011
+152,Sacred Seven,5.4,Anime de   Hajime Yatate,"['animation', 'science-fiction']",1.0,MBS,25.0,"['3', 'juillet', '2011']",juillet,2011
+153,Deadman Wonderland,6.3,Anime de   Koichi Hatsumi,"['science-fiction', 'action', 'animation']",1.0,tvk,25.0,"['17', 'avril', '2011']",avril,2011
+154,Le Petit journal,6.0,Émission TV de   Yann Barthès,['comédie'],12.0,Canal+,18.0,"['29', 'août', '2011']",août,2011
+155,Bob's Burgers,6.9,Série de   Loren Bouchard,"['animation', 'comédie']",11.0,FOX (US),25.0,"['9', 'janvier', '2011']",janvier,2011
+156,Planète Dinosaures,7.9,Série de   Nigel Paterson,['documentaire'],1.0,BBC One,49.0,"['14', 'septembre', '2011']",septembre,2011
+157,City Hunter,7.3,Drama de   Jin Hyeok,"['thriller', 'drame', 'action']",1.0,SBS (KR),65.0,"['25', 'mai', '2011']",mai,2011
+158,XIII : La Série,5.0,Série de   Duane Clark,"['thriller', 'action', 'policier']",2.0,Showcase (CA),40.0,"['18', 'avril', '2011']",avril,2011
+159,Nichijou: My Ordinary Life,8.0,Anime de   Keiichi Arawi et   Tatsuya Ishihara,"['fantastique', 'animation', 'comédie']",1.0,TV Aichi,25.0,"['2', 'avril', '2011']",avril,2011
+160,Workaholics,6.8,"Série de   Dominic Russo,   Kyle Newacheck,   Connor Pritchard...",['comédie'],7.0,Comedy Central (US),25.0,"['6', 'avril', '2011']",avril,2011
+161,Bakuman 2,7.6,Anime de   Kasai Ken'ichi et   Tsugumi Ōba,"['drame', 'shōnen', 'comédie']",1.0,AnimeDigitalNetwork,25.0,"['1', 'octobre', '2011']",octobre,2011
+162,The Secret Circle,5.1,Série de   Elizabeth Craft et   Sarah Fain,"['fantastique', 'épouvante-horreur', 'drame']",1.0,The CW,45.0,"['15', 'septembre', '2011']",septembre,2011
+163,Julfou,6.5,Websérie de   Julien Josselin (Julfou),"['comédie', 'mini-série']",Inconnu,Inconnue,3.0,"['12', 'juillet', '2011']",juillet,2011
+164,Fresh Meat,6.8,Série de   Sam Bain et   Jesse Armstrong,"['comédie', 'drame']",4.0,Channel 4,50.0,"['21', 'septembre', '2011']",septembre,2011
+165,Gosick,7.0,"Anime de   Kazuki Sakuraba,   Hitoshi Nanba et   Hinata Takeda","['fantastique', 'policier', 'romance']",1.0,TV Tokyo,25.0,"['7', 'janvier', '2011']",janvier,2011
+166,Unforgettable,5.0,Série de   John Bellucci et   Ed Redlich,"['policier', 'drame']",4.0,A&E,45.0,"['20', 'septembre', '2011']",septembre,2011
+167,Ringer,5.5,Série de   Eric C. Charmelo et   Nicole Snyder,"['thriller', 'policier', 'drame']",1.0,The CW,45.0,"['13', 'septembre', '2011']",septembre,2011
+168,Monroe,7.0,Série de   Peter Bowker,"['drame', 'médical']",2.0,ITV,60.0,"['10', 'mars', '2011']",mars,2011
+169,The Walking Dead : Webepisodes - Torn Apart,6.7,Websérie de   Greg Nicotero,"['épouvante-horreur', 'drame']",1.0,Inconnue,Inconnue,"['3', 'octobre', '2011']",octobre,2011
+170,The Fades,6.8,Série de   Jack Thorne,"['fantastique', 'drame', 'fantasy']",1.0,BBC Three,55.0,"['21', 'septembre', '2011']",septembre,2011
+171,Gintama 2,8.7,Anime de   Hideaki Sorachi et   Yoichi Fujita,"['comédie', 'action', 'animation']",1.0,Inconnue,25.0,"['4', 'avril', '2011']",avril,2011
+172,Natoo,5.1,Émission Web de   Nathalie Odzierejko (Natoo),"['comédie', 'mini-série']",Inconnu,YouTube,5.0,"['10', 'mars', '2011']",mars,2011
+173,Hourou Musuko,7.5,Anime de   Takako Shimura et   Aoki Ei,"['romance', 'seinen', 'animation']",1.0,Fuji TV,25.0,"['14', 'janvier', '2011']",janvier,2011
+174,Prohibition,7.8,Série de   Ken Burns et   Lynn Novick,['documentaire'],1.0,PBS,120.0,"['26', 'juin', '2011']",juin,2011
+175,Salut les geeks,6.2,Émission Web de   Mathieu Sommet,['comédie'],6.0,YouTube,5.0,"['11', 'mars', '2011']",mars,2011
+176,Looney Tunes Show,6.6,Dessin animé de   Spike Brandt et   Tony Cervone,"['comédie', 'jeunesse', 'animation']",Inconnu,Cartoon Network,25.0,"['3', 'mai', '2011']",mai,2011
+177,Scarlet Heart,7.6,Série,['drame'],2.0,Hunan TV,45.0,"['10', 'septembre', '2011']",septembre,2011
+178,Kaiji: Against All Rules,7.9,Anime de   Yûzô Satô et   Nobuyuki Fukumoto,"['thriller', 'seinen']",1.0,NTV (JP),25.0,"['6', 'avril', '2011']",avril,2011
+179,Les Bracelets rouges (ES),7.5,Série de   Albert Espinosa Puig et   Albert Espinosa,"['jeunesse', 'drame']",2.0,TV3 (ES),45.0,"['24', 'janvier', '2011']",janvier,2011
+180,Toy Story Toons,6.9,"Dessin animé de   Angus MacLane,   Gary Rydstrom et   Mark A. Walsh",['animation'],Inconnu,ABC (US),7.0,"['24', 'juin', '2011']",juin,2011
+181,Breakout Kings,5.7,Série de   Nick Santora et   Matt Olmstead,"['thriller', 'policier', 'drame']",2.0,A&E,45.0,"['6', 'mars', '2011']",mars,2011
+182,The Kennedys,6.3,Série de   Jon Cassar,"['historique', 'biopic', 'drame']",1.0,ReelzChannel,45.0,"['3', 'avril', '2011']",avril,2011
+183,Yuru Yuri,6.2,"Anime de   Masahiko Ohta,   Nakajima Chiaki et   Namori","['animation', 'comédie']",3.0,TV Tokyo,25.0,"['5', 'juillet', '2011']",juillet,2011
+184,La Maison sur le Lac,4.9,Série de   Mick Garris,"['fantastique', 'mini-série', 'drame']",1.0,A&E,80.0,"['11', 'décembre', '2011']",décembre,2011
+185,Face Off,7.1,Émission TV,"['télé-réalité', 'documentaire']",7.0,SyFy,45.0,"['26', 'janvier', '2011']",janvier,2011
+186,Scent of a Woman,7.3,Série de   Park Hyung-Ki et   No Ji-Sul,['drame'],1.0,SBS (KR),65.0,"['23', 'juillet', '2011']",juillet,2011
+187,Plastic Nee-san,6.9,"Anime de   Kurii Cha,   Sumie Kinoshita et   Tsutomu Mizushima","['animation', 'comédie', 'seinen']",1.0,Inconnue,2.0,"['16', 'mai', '2011']",mai,2011
+188,Un drôle de père,8.2,Anime de   Kamei Kanta et   Yumi Unita,"['comédie', 'animation', 'drame']",1.0,Fuji TV,25.0,"['8', 'juillet', '2011']",juillet,2011
+189,Outcasts,6.0,Série de   Ben Richards,"['drame', 'science-fiction']",1.0,BBC One,60.0,"['7', 'février', '2011']",février,2011
+190,Les Revenants,6.8,Série de   Fabrice Gobert,"['fantastique', 'thriller', 'épouvante-horreur']",2.0,Canal+,50.0,"['26', 'novembre', '2012']",novembre,2012
+191,Real Humans,7.4,Série de   Lars Lundström,"['thriller', 'drame']",2.0,SVT,60.0,"['22', 'janvier', '2012']",janvier,2012
+192,The Newsroom,7.4,Série de   Aaron Sorkin,['drame'],3.0,HBO,55.0,"['24', 'juin', '2012']",juin,2012
+193,Arrow,5.4,"Série de   Greg Berlanti,   Andrew Kreisberg et   Marc Guggenheim","['action', 'aventure', 'policier']",8.0,The CW,40.0,"['10', 'octobre', '2012']",octobre,2012
+194,Girls,6.5,Série de   Lena Dunham,"['comédie', 'dramatique']",6.0,HBO,30.0,"['15', 'avril', '2012']",avril,2012
+195,Elementary,6.1,Série de   Robert Doherty,"['policier', 'drame', 'thriller']",7.0,CBS,45.0,"['27', 'septembre', '2012']",septembre,2012
+196,Souvenirs de Gravity Falls,8.1,Dessin animé de   Alex Hirsch,"['fantastique', 'comédie', 'animation']",2.0,Disney XD,25.0,"['15', 'juin', '2012']",juin,2012
+197,Psycho-Pass,7.7,"Anime de   Katsuyuki Motohiro,   Naoyoshi Shiotani et   Akira Amano","['science-fiction', 'action', 'animation']",1.0,Fuji TV,25.0,"['12', 'octobre', '2012']",octobre,2012
+198,Veep,6.9,Série de   Armando Iannucci,['comédie'],7.0,HBO,30.0,"['22', 'avril', '2012']",avril,2012
+199,La Légende de Korra,7.4,Dessin animé de   Michael Dante DiMartino et   Bryan Konietzko,"['action', 'animation', 'drame']",4.0,Nickelodeon,25.0,"['14', 'avril', '2012']",avril,2012
+200,Scandal,6.2,Série de   Shonda Rhimes,['drame'],7.0,ABC (US),45.0,"['5', 'avril', '2012']",avril,2012
+201,Continuum,6.2,Série de   Simon Barry,"['science-fiction', 'thriller', 'drame']",4.0,Showcase (CA),45.0,"['27', 'mai', '2012']",mai,2012
+202,A Young Doctor's Notebook,7.2,Série de   Alex Hardcastle,"['comédie', 'drame']",2.0,Sky Arts,23.0,"['6', 'décembre', '2012']",décembre,2012
+203,Jojo's Bizarre Adventure,7.6,"Anime de   Naokatsu Tsuda,   Kenichi Suzuki,   Hirohiko Araki...","['fantastique', 'aventure', 'action']",1.0,Tokyo MX,24.0,"['6', 'octobre', '2012']",octobre,2012
+204,Don't Trust the B---- in Apartment 23,6.3,Série de   Nahnatchka Khan,['comédie'],2.0,ABC (US),25.0,"['11', 'avril', '2012']",avril,2012
+205,Sword Art Online,6.3,Anime de   Reki Kawahara et   Tomohiko Itou,"['animation', 'aventure', 'science-fiction']",1.0,Tokyo MX,25.0,"['8', 'juillet', '2012']",juillet,2012
+206,Derek,7.6,Série de   Ricky Gervais,"['comédie', 'drame']",3.0,Channel 4,24.0,"['12', 'avril', '2012']",avril,2012
+207,Revolution,4.7,Série de   Eric Kripke,"['drame', 'action']",2.0,NBC,45.0,"['17', 'septembre', '2012']",septembre,2012
+208,Kids on the Slope,7.6,Anime de   Shinichirô Watanabe,"['musique', 'animation', 'drame']",1.0,Fuji TV,25.0,"['7', 'avril', '2012']",avril,2012
+209,Touch,5.9,Série de   Tim Kring,"['science-fiction', 'drame']",2.0,FOX (US),45.0,"['25', 'janvier', '2012']",janvier,2012
+210,Awake,6.6,Série de   Kyle Killen,"['fantastique', 'drame']",1.0,NBC,45.0,"['1', 'mars', '2012']",mars,2012
+211,Le Fossoyeur de films,7.6,Émission Web de   François Theurel,"['mini-série', 'documentaire']",Inconnu,YouTube,30.0,"['15', 'octobre', '2012']",octobre,2012
+212,Kaboul Kitchen,7.0,"Série de   Jean-Patrick Benes,   Allan Mauduit et   Marc Victor",['comédie'],3.0,Canal+,25.0,"['13', 'février', '2012']",février,2012
+213,Silex and the City,6.5,Dessin animé de   Julien Berjeaut (Jul),"['comédie', 'animation']",5.0,Arte,5.0,"['3', 'septembre', '2012']",septembre,2012
+214,Lilyhammer,6.9,Série de   Anne Bjørnstad et   Eilif Skodvin,"['comédie', 'policier', 'drame']",3.0,NRK1,45.0,"['25', 'janvier', '2012']",janvier,2012
+215,From the New World,7.9,"Anime de   YORI,   Yusuke Kishi et   Masashi Ishihama","['fantastique', 'drame', 'animation']",1.0,TV Asahi,25.0,"['29', 'septembre', '2012']",septembre,2012
+216,Hatfields & McCoys,7.3,Série de   Ted Mann,"['drame', 'mini-série', 'télé-réalité']",1.0,History,100.0,"['28', 'mai', '2012']",mai,2012
+217,Hit and Miss,7.1,Série de   Paul Abbott,['drame'],1.0,Sky1,45.0,"['22', 'mai', '2012']",mai,2012
+218,Last Resort,5.3,Série de   Shawn Ryan et   Karl Gajdusek,"['action', 'guerre', 'drame']",1.0,ABC (US),45.0,"['8', 'octobre', '2012']",octobre,2012
+219,Go on,6.2,Série de   Scott Silveri,['comédie'],1.0,NBC,25.0,"['8', 'août', '2012']",août,2012
+220,Chicago Fire,6.3,Série de   Michael Brandt et   Derek Haas,"['action', 'drame']",9.0,NBC,42.0,"['10', 'octobre', '2012']",octobre,2012
+221,The River,5.7,Série de   Michael R. Perry et   Oren Peli,"['aventure', 'drame', 'épouvante-horreur']",1.0,ABC (US),45.0,"['24', 'janvier', '2012']",janvier,2012
+222,What the Cut?!,7.2,Émission Web de   Antoine Daniel,['comédie'],1.0,YouTube,10.0,"['1', 'mars', '2012']",mars,2012
+223,Another,6.4,Anime de   Tsutomu Mizushima et   Yukito Ayatsuji,"['épouvante-horreur', 'animation', 'action']",1.0,Tokyo MX,20.0,"['10', 'janvier', '2012']",janvier,2012
+224,Les Opérateurs,7.1,Websérie de   Slimane-Baptiste Berhoun et   François Descraques,['comédie'],1.0,France 4,6.0,"['13', 'octobre', '2012']",octobre,2012
+225,Perception,5.9,Série de   Kenneth Biller et   Michael Sussman,"['policier', 'drame']",3.0,TNT (US),45.0,"['9', 'juillet', '2012']",juillet,2012
+226,Battlestar Galactica: Blood & Chrome,6.4,Websérie de   Michael Taylor et   David Eick,['science-fiction'],1.0,SyFy,10.0,"['9', 'novembre', '2012']",novembre,2012
+227,Lupin III : Une femme nommée Fujiko Mine,7.8,Anime de   Sayo Yamamoto,"['thriller', 'policier', 'action']",1.0,NTV (JP),25.0,"['5', 'avril', '2012']",avril,2012
+228,Alcatraz,5.1,"Série de   Elizabeth Sarnoff,   Steven Lilien et   Bryan Wynbrandt","['science-fiction', 'policier', 'drame']",1.0,FOX (US),45.0,"['16', 'janvier', '2012']",janvier,2012
+229,The Mindy Project,6.4,Série de   Mindy Kaling,['comédie'],6.0,Hulu,25.0,"['25', 'septembre', '2012']",septembre,2012
+230,666 Park Avenue,5.2,Série de   David Wilcox,"['fantastique', 'thriller', 'drame']",1.0,ABC (US),45.0,"['30', 'septembre', '2012']",septembre,2012
+231,Ainsi soient-ils,6.7,"Série de   Bruno Nahon,   Vincent Poymiro,   David Elkaim...",['drame'],3.0,Arte,50.0,"['11', 'octobre', '2012']",octobre,2012
+232,Nashville,6.0,Série de   Callie Khouri,['drame'],6.0,CMT,45.0,"['10', 'octobre', '2012']",octobre,2012
+233,Kuroko No Basket,7.1,Anime de   Shunsuke Tada,"['animation', 'comédie', 'shōnen']",1.0,MBS,25.0,"['8', 'avril', '2012']",avril,2012
+234,Papy Grenier,7.0,Émission Web de   Sébastien Rassiat et   Frédéric Molas,['comédie'],1.0,YouTube,7.0,"['13', 'septembre', '2012']",septembre,2012
+235,Uchuu Senkan Yamato 2199,7.9,"Anime (OAV) de   Leiji Matsumoto,   Yoshinobu Nishizaki et   Yutaka Izubuchi","['animation', 'romance', 'guerre']",1.0,MBS,25.0,"['6', 'avril', '2012']",avril,2012
+236,Smash,6.0,Série de   Theresa Rebeck,['drame'],2.0,NBC,45.0,"['6', 'février', '2012']",février,2012
+237,Ultimate Spider-Man,5.8,Série de   Paul Dini et   Brian Michael Bendis,"['action', 'aventure', 'animation']",4.0,Disney XD,25.0,"['1', 'avril', '2012']",avril,2012
+238,The Finder,5.9,Série de   Hart Hanson,"['comédie', 'policier', 'drame']",1.0,FOX (US),45.0,"['12', 'janvier', '2012']",janvier,2012
+239,Ripper Street,7.2,Série de   Richard Warlow,['drame'],5.0,Prime Video,60.0,"['30', 'décembre', '2012']",décembre,2012
+240,Hunted,6.3,Série de   Frank Spotnitz,"['thriller', 'drame', 'action']",1.0,BBC One,60.0,"['4', 'octobre', '2012']",octobre,2012
+241,Space Brothers,7.9,Anime de   Ayumu Watanabe,"['science-fiction', 'comédie', 'seinen']",1.0,NTV (JP),25.0,"['1', 'avril', '2012']",avril,2012
+242,WorkinGirls,6.4,Série de   Sylvain Fusée,['comédie'],4.0,Canal+,15.0,"['19', 'avril', '2012']",avril,2012
+243,The Neighbors,6.3,Série de   Dan Fogelman,"['science-fiction', 'comédie']",2.0,ABC (US),25.0,"['26', 'septembre', '2012']",septembre,2012
+244,Secret State,7.3,Série de   Robert Jones,"['drame', 'mini-série']",1.0,Channel 4,45.0,"['7', 'novembre', '2012']",novembre,2012
+245,Tron : La Révolte,7.0,Dessin animé de   Steven Lisberger et   Bonnie MacBird,"['action', 'aventure', 'animation']",1.0,Disney XD,25.0,"['18', 'mai', '2012']",mai,2012
+246,Palmashow l'émission,7.2,Série de   Grégoire Ludig et   David Marsais,['comédie'],1.0,D8,20.0,"['2', 'décembre', '2012']",décembre,2012
+247,"Love, Chunibyo & Other Delusions!",6.9,"Anime de   Tatsuya Ishihara,   Torako,   Nozomi Ousaka...","['animation', 'seinen', 'romance']",2.0,Tokyo Broadcasting System,25.0,"['4', 'octobre', '2012']",octobre,2012
+248,Shokuzai,7.6,Série de   Kiyoshi Kurosawa,['drame'],1.0,WOWOW,60.0,"['8', 'janvier', '2012']",janvier,2012
+249,Inquisitio,6.2,Série de   Nicolas Cuche,['drame'],1.0,France 2,50.0,"['4', 'juillet', '2012']",juillet,2012
+250,The New Normal,5.5,Série de   Ali Adler,['comédie'],1.0,NBC,25.0,"['10', 'septembre', '2012']",septembre,2012
+251,Humanity has Declined,7.4,"Anime de   Seiji Kishi,   Kyuuta Sakai,   Romeo Tanaka...","['fantastique', 'comédie', 'animation']",1.0,Tokyo MX,25.0,"['1', 'juillet', '2012']",juillet,2012
+252,L'après-séance,7.4,Émission Web de   François Theurel,['mini-série'],Inconnu,YouTube,10.0,"['21', 'décembre', '2012']",décembre,2012
+253,Hyouka,7.4,Anime de   Yonezawa Honobu,"['romance', 'drame', 'comédie']",1.0,CTC (JA),25.0,"['22', 'avril', '2012']",avril,2012
+254,Parade's End,6.4,Série de   Tom Stoppard,"['mini-série', 'drame', 'action']",1.0,BBC Two,60.0,"['24', 'août', '2012']",août,2012
+255,Beauty and the Beast,4.4,Série de   Ron Koslow,"['policier', 'fantasy', 'romance']",4.0,The CW,45.0,"['18', 'mai', '2012']",mai,2012
+256,House of Lies,6.0,Série de   Matthew Carnahan,"['comédie', 'drame']",5.0,Showtime,30.0,"['8', 'janvier', '2012']",janvier,2012
+257,Hard Corner,6.7,Émission Web de   Benjamin Daniel (Benzaie),['comédie'],Inconnu,YouTube,6.0,"['28', 'janvier', '2012']",janvier,2012
+258,Nisemonogatari,7.2,"Anime de   Tomoyuki Itamura,   Akiyuki Shinbo et   Nishio Ishin (NisiOisiN)","['fantastique', 'comédie', 'animation']",1.0,Inconnue,23.0,"['8', 'janvier', '2012']",janvier,2012
+259,Btooom!,6.3,Anime,"['romance', 'science-fiction', 'action']",1.0,Tokyo MX,25.0,"['4', 'octobre', '2012']",octobre,2012
+260,Enquêtes codées,7.2,Série de   Andy De Emmony,['drame'],2.0,ITV,45.0,"['6', 'septembre', '2012']",septembre,2012
+261,Baby Daddy,5.8,Série de   Daniel Berendsen,['comédie'],6.0,Freeform,25.0,"['20', 'juin', '2012']",juin,2012
+262,Kokoro Connect,7.0,"Anime de   Shin Oonuma,   Shiromizakana,   Shinya Kawamo...","['romance', 'animation', 'drame']",1.0,Tokyo MX,25.0,"['7', 'juillet', '2012']",juillet,2012
+263,Magic City,6.4,Série de   Mitch Glazer,"['drame', 'thriller']",2.0,Starz,55.0,"['30', 'mars', '2012']",mars,2012
+264,Girls und Panzer,6.7,"Anime de   Tsutomu Mizushima,   Shimada Humikane et   Takeshi Nogami","['animation', 'comédie']",1.0,Tokyo MX,25.0,"['9', 'octobre', '2012']",octobre,2012
+265,House of Cards,7.6,Série de   Beau Willimon,"['policier', 'drame']",6.0,Netflix,52.0,"['1', 'février', '2013']",février,2013
+266,Hannibal,7.4,Série de   Bryan Fuller,"['épouvante-horreur', 'policier', 'drame']",3.0,NBC,45.0,"['4', 'avril', '2013']",avril,2013
+267,Vikings,7.5,Série de   Michael Hirst,"['action', 'drame']",6.0,Prime Video,45.0,"['3', 'mars', '2013']",mars,2013
+268,Orange Is the New Black,7.1,Série de   Jenji Kohan,"['comédie', 'policier', 'drame']",7.0,Netflix,60.0,"['11', 'juillet', '2013']",juillet,2013
+269,Utopia,7.9,Série de   Dennis Kelly,"['science-fiction', 'thriller', 'drame']",2.0,Channel 4,60.0,"['15', 'janvier', '2013']",janvier,2013
+270,Peaky Blinders,8.0,Série de   Steven Knight,"['policier', 'drame']",6.0,BBC One,55.0,"['12', 'septembre', '2013']",septembre,2013
+271,Broadchurch,7.7,Série de   Chris Chibnall,"['policier', 'drame', 'aventure']",3.0,ITV,45.0,"['24', 'février', '2013']",février,2013
+272,Rectify,7.5,Série de   Ray McKinnon,['drame'],4.0,SundanceTV,45.0,"['22', 'avril', '2013']",avril,2013
+273,Brooklyn Nine-Nine,7.5,Série de   Daniel J. Goor et   Michael Schur,"['action', 'comédie', 'policier']",8.0,NBC,25.0,"['11', 'août', '2013']",août,2013
+274,Top of the Lake,7.3,Série de   Jane Campion,"['policier', 'drame', 'thriller']",2.0,SundanceTV,57.0,"['18', 'mars', '2013']",mars,2013
+275,Orphan Black,7.1,Série de   John Fawcett et   Graeme Manson,"['drame', 'science-fiction']",5.0,BBC America,45.0,"['30', 'mars', '2013']",mars,2013
+276,Masters of Sex,7.0,Série de   Michelle Ashford,"['romance', 'drame']",4.0,Showtime,60.0,"['29', 'septembre', '2013']",septembre,2013
+277,The Americans,7.3,Série de   Joseph Weisberg,"['thriller', 'policier', 'drame']",6.0,FX,48.0,"['30', 'janvier', '2013']",janvier,2013
+278,Rick et Morty,8.3,Dessin animé de   Dan Harmon et   Justin Roiland,"['aventure', 'animation', 'comédie']",3.0,Adult Swim,25.0,"['2', 'décembre', '2013']",décembre,2013
+279,Under the Dome,5.0,Série de   Brian K. Vaughan,"['science-fiction', 'épouvante-horreur', 'drame']",3.0,CBS,45.0,"['24', 'juin', '2013']",juin,2013
+280,L'Attaque des Titans,7.9,Anime de   Tetsurō Araki et   Hajime Isayama,"['animation', 'aventure', 'fantasy']",Inconnu,MBS,25.0,"['7', 'avril', '2013']",avril,2013
+281,Banshee,7.0,Série de   David Schickler et   Jonathan Tropper,"['policier', 'drame', 'action']",4.0,Cinemax,55.0,"['11', 'janvier', '2013']",janvier,2013
+282,Bates Motel,6.7,Série de   Anthony Cipriano,"['policier', 'drame', 'épouvante-horreur']",5.0,A&E,45.0,"['18', 'mars', '2013']",mars,2013
+283,Marvel : Les Agents du S.H.I.E.L.D.,5.5,"Série de   Joss Whedon,   Jed Whedon et   Maurissa Tancharoen","['action', 'drame', 'science-fiction']",7.0,ABC (US),43.0,"['24', 'septembre', '2013']",septembre,2013
+284,Blacklist,6.1,Série de   Jon Bokenkamp,"['action', 'policier', 'drame']",8.0,NBC,43.0,"['10', 'septembre', '2013']",septembre,2013
+285,The Following,6.0,Série de   Kevin Williamson,"['thriller', 'policier', 'drame']",3.0,FOX (US),45.0,"['21', 'janvier', '2013']",janvier,2013
+286,The Fall,7.4,Série de   Allan Cubitt,"['thriller', 'drame']",3.0,RTÉ One,60.0,"['12', 'mai', '2013']",mai,2013
+287,In the Flesh,7.2,Série de   Dominic Mitchell,"['thriller', 'épouvante-horreur', 'drame']",2.0,BBC Three,60.0,"['17', 'mars', '2013']",mars,2013
+288,Ray Donovan,6.9,Série de   Ann Biderman,"['policier', 'drame']",7.0,Showtime,55.0,"['30', 'juin', '2013']",juin,2013
+289,Crossed,8.5,"Émission Web de   Gilles Stella,   Jérémy Morvan et   Karim Debbache",['mini-série'],1.0,jeuxvideo.com,10.0,"['6', 'février', '2013']",février,2013
+290,Journal d'une ado hors norme,7.6,Série de   Tom Bidwell,"['comédie', 'drame']",3.0,E4,60.0,"['14', 'janvier', '2013']",janvier,2013
+291,Kill la Kill,7.4,"Anime de   Hiroyuki Imaishi,   Kazuki Nakashima et   Sushio","['science-fiction', 'seinen', 'fantasy']",1.0,MBS,25.0,"['4', 'octobre', '2013']",octobre,2013
+292,The Originals,6.0,Série de   Julie Plec,"['fantastique', 'épouvante-horreur', 'drame']",5.0,The CW,41.0,"['3', 'octobre', '2013']",octobre,2013
+293,Almost Human,6.0,Série de   J.H. Wyman,"['policier', 'drame', 'action']",1.0,FOX (US),45.0,"['17', 'novembre', '2013']",novembre,2013
+294,Siberia,6.8,Série de   Matthew Arnold,"['thriller', 'drame', 'action']",1.0,NBC,45.0,"['1', 'juillet', '2013']",juillet,2013
+295,Sleepy Hollow,5.6,Série de   Alex Kurtzman et   Roberto Orci,"['fantastique', 'épouvante-horreur', 'drame']",4.0,FOX (US),45.0,"['16', 'septembre', '2013']",septembre,2013
+296,The Wrong Mans,7.3,Série de   Mathew Baynton et   James Corden,"['comédie', 'policier', 'drame']",2.0,BBC Two,30.0,"['24', 'septembre', '2013']",septembre,2013
+297,Devious Maids,5.7,Série de   Marc Cherry,"['comédie', 'drame']",4.0,Lifetime,45.0,"['23', 'juin', '2013']",juin,2013
+298,Les Kassos,7.2,Dessin animé de   Balak et   El Diablo,"['animation', 'comédie']",4.0,Canal+,2.0,"['2', 'décembre', '2013']",décembre,2013
+299,Dates,7.1,Série de   Bryan Elsley,['drame'],1.0,Channel 4,25.0,"['10', 'juin', '2013']",juin,2013
+300,Hemlock Grove,5.9,"Série de   Eli Roth,   Brian McGreevy et   Lee Shipman","['science-fiction', 'thriller', 'épouvante-horreur']",3.0,Netflix,60.0,"['19', 'avril', '2013']",avril,2013
+301,Tunnel,6.2,Série de   Ben Richards,"['policier', 'drame']",3.0,Sky Atlantic (UK),45.0,"['17', 'octobre', '2013']",octobre,2013
+302,« Connasse »,5.5,Série de   Eloïse Lang et   Noémie Saglio,"['comédie', 'mini-série']",1.0,Canal+,1.0,"['16', 'septembre', '2013']",septembre,2013
+303,Reign : Le Destin d'une reine,5.3,Série de   Laurie McCarthy et   Stephanie Sengupta,"['historique', 'romance', 'drame']",4.0,The CW,45.0,"['17', 'octobre', '2013']",octobre,2013
+304,Defiance,5.1,"Série de   Rockne S. O'Bannon,   Kevin Murphy et   Michael Taylor",['science-fiction'],3.0,SyFy,45.0,"['15', 'avril', '2013']",avril,2013
+305,Da Vinci's Demons,5.7,Série de   David S. Goyer,"['fantastique', 'drame', 'action']",3.0,Starz,55.0,"['12', 'avril', '2013']",avril,2013
+306,Hello Ladies,6.3,"Série de   Stephen Merchant,   Lee Eisenberg et   Gene Stupnitsky",['comédie'],1.0,HBO,30.0,"['29', 'septembre', '2013']",septembre,2013
+307,Generation War,7.8,Série de   Stefan Kolditz,"['historique', 'guerre', 'drame']",1.0,ICI Tou.tv,90.0,"['17', 'mars', '2013']",mars,2013
+308,Perfect Crime,7.4,Série de   David Wolstencroft,"['drame', 'mini-série', 'thriller']",1.0,BBC One,60.0,"['29', 'octobre', '2013']",octobre,2013
+309,The Tomorrow People,5.1,"Série de   Phil Klemmer,   Greg Berlanti et   Julie Plec","['science-fiction', 'drame', 'action']",1.0,The CW,45.0,"['9', 'octobre', '2013']",octobre,2013
+310,Pokémon : les origines,7.0,"Anime de   Itsuro Kawasaki,   Yukio Kuroda,   Hideya Takahashi...","['animation', 'mini-série', 'aventure']",1.0,TV Tokyo,22.0,"['2', 'octobre', '2013']",octobre,2013
+311,Lazy Company,7.0,Série de   Samuel Bodin et   Alexandre Philip,['comédie'],3.0,OCS,20.0,"['18', 'janvier', '2013']",janvier,2013
+312,Steven Universe,7.7,Dessin animé de   Rebecca Sugar,"['aventure', 'animation', 'jeunesse']",5.0,Cartoon Network,10.0,"['27', 'juillet', '2013']",juillet,2013
+313,Please Like Me,7.7,Série de   Josh Thomas,"['comédie', 'drame']",4.0,ABC Comedy (AU),25.0,"['28', 'février', '2013']",février,2013
+314,The White Queen,6.1,Série de   Emma Frost,"['mini-série', 'drame']",1.0,BBC One,60.0,"['10', 'août', '2013']",août,2013
+315,The Crazy Ones,5.5,Série de   David E. Kelley,['comédie'],1.0,CBS,25.0,"['26', 'septembre', '2013']",septembre,2013
+316,Mom,6.3,"Série de   Chuck Lorre,   Eddie Gorodetsky et   Gemma Baker",['comédie'],8.0,CBS,21.0,"['9', 'septembre', '2013']",septembre,2013
+317,Axolot,8.0,Émission Web de   Patrick Baud,['documentaire'],Inconnu,YouTube,12.0,"['20', 'juin', '2013']",juin,2013
+318,The Fosters,6.1,Série de   Peter Paige et   Brad Bredeweg,['drame'],5.0,Freeform,45.0,"['3', 'juin', '2013']",juin,2013
+319,Dracula,5.1,Série de   Cole Haddon,"['romance', 'épouvante-horreur', 'drame']",1.0,NBC,45.0,"['25', 'octobre', '2013']",octobre,2013
+320,Southcliffe,6.7,Série de   Tony Grisoni,['drame'],1.0,Channel 4,60.0,"['4', 'août', '2013']",août,2013
+321,Once Upon a Time in Wonderland,4.6,"Série de   Jane Espenson,   Zack Estrin et   Adam Horowitz","['aventure', 'drame', 'fantasy']",1.0,ABC (US),45.0,"['10', 'octobre', '2013']",octobre,2013
+322,Witches of East End,5.5,Série de   Maggie Friedman,"['drame', 'fantasy', 'thriller']",2.0,Lifetime,45.0,"['6', 'octobre', '2013']",octobre,2013
+323,Mr Selfridge,6.8,Série de   Andrew Davies,['drame'],4.0,ITV,60.0,"['6', 'janvier', '2013']",janvier,2013
+324,Falco,5.7,"Série de   Alexandre Laurent,   Thierry Petit et   Marwen Abdallah","['policier', 'drame']",4.0,TF1,60.0,"['20', 'juin', '2013']",juin,2013
+325,Family Tree,6.2,Série de   Christopher Guest et   Jim Piddock,['comédie'],1.0,HBO,30.0,"['12', 'mai', '2013']",mai,2013
+326,Hajime no Ippo: The Fighting! : Rising,7.9,Anime de   George Morikawa et   Jun Shishido,"['animation', 'action', 'sport']",1.0,NTV (JP),25.0,"['6', 'octobre', '2013']",octobre,2013
+327,Hostages,5.3,Série de   Rotem Shamir,"['thriller', 'drame']",1.0,CBS,45.0,"['23', 'septembre', '2013']",septembre,2013
+328,Ravenswood,4.3,"Série de   Joseph Dougherty,   Oliver Goldstick et   I. Marlene King","['épouvante-horreur', 'drame']",1.0,Freeform,45.0,"['22', 'octobre', '2013']",octobre,2013
+329,Mob City,6.3,Série de   Frank Darabont,"['policier', 'drame']",1.0,TNT (US),45.0,"['4', 'décembre', '2013']",décembre,2013
+330,Gargantia on the Verdurous Planet,6.9,"Anime de   Kazuya Murata,   Gen Urobuchi et   Naruko Hanaharu","['animation', 'comédie', 'drame']",1.0,Tokyo MX,25.0,"['2', 'mars', '2013']",mars,2013
+331,Graceland,6.2,Série de   Jeff Eastin,"['policier', 'drame', 'action']",3.0,USA Network,45.0,"['6', 'juin', '2013']",juin,2013
+332,Low Winter Sun (US),6.1,Série de   Chris Mundy,"['policier', 'drame']",1.0,AMC,60.0,"['11', 'août', '2013']",août,2013
+333,The Bridge,6.6,"Série de   Meredith Stiehm,   Björn Stein et   Elwood Reid","['policier', 'drame']",2.0,FX,45.0,"['10', 'juillet', '2013']",juillet,2013
+334,Plebs,7.0,Série de   Tom Basden et   Sam Leifer,['comédie'],5.0,ITV2,30.0,"['25', 'mars', '2013']",mars,2013
+335,Log Horizon,6.8,Anime de   Shinji Ishihara et   Mamare Tôno,"['aventure', 'action', 'fantastique']",2.0,NHK,25.0,"['6', 'septembre', '2013']",septembre,2013
+336,Le mari de la ministre,7.1,Série de   Paula Milne,"['drame', 'mini-série']",1.0,BBC Two,55.0,"['25', 'avril', '2013']",avril,2013
+337,Silver Spoon,7.3,Anime de   Hiromu Arakawa et   Tomohiko Itou,"['animation', 'drame', 'comédie']",1.0,Fuji TV,25.0,"['12', 'juillet', '2013']",juillet,2013
+338,BiTS,8.1,Émission Web de   Joseph Vasconi et   Rafik Djoumi,['documentaire'],4.0,Arte Creative,10.0,"['16', 'octobre', '2013']",octobre,2013
+339,Getting On (US),6.6,Série de   Mark V. Olsen et   Will Scheffer,"['comédie', 'dramatique']",3.0,HBO,30.0,"['24', 'novembre', '2013']",novembre,2013
+340,True Detective,8.2,Série de   Nic Pizzolatto,"['policier', 'drame', 'anthologique']",3.0,HBO,59.0,"['12', 'janvier', '2014']",janvier,2014
+341,Fargo,8.2,Série de   Noah Hawley,"['comédie', 'policier', 'drame']",4.0,FX,50.0,"['15', 'avril', '2014']",avril,2014
+342,The Leftovers,7.7,Série de   Damon Lindelof et   Tom Perrotta,"['drame', 'fantastique']",3.0,HBO,55.0,"['30', 'juin', '2014']",juin,2014
+343,The Knick,7.7,Série de   Jack Amiel et   Michael Begler,['drame'],2.0,Cinemax,55.0,"['8', 'août', '2014']",août,2014
+344,Penny Dreadful,6.8,Série de   John Logan,"['fantastique', 'épouvante-horreur', 'drame']",3.0,Showtime,60.0,"['11', 'mai', '2014']",mai,2014
+345,Les 100,5.9,Série de   Jason Rothenberg,"['action', 'drame', 'science-fiction']",7.0,The CW,41.0,"['19', 'mars', '2014']",mars,2014
+346,Silicon Valley,7.3,"Série de   Mike Judge,   John Altschuler et   Dave Krinsky",['comédie'],6.0,HBO,30.0,"['6', 'avril', '2014']",avril,2014
+347,Gotham,6.1,Série de   Bruno Heller,"['policier', 'action', 'drame']",5.0,FOX (US),45.0,"['18', 'août', '2014']",août,2014
+348,Halt and Catch Fire,7.5,Série de   Christopher Cantwell et   Christopher C. Rogers,['drame'],4.0,AMC,45.0,"['1', 'juin', '2014']",juin,2014
+349,Flash,5.7,"Série de   Greg Berlanti,   Andrew Kreisberg et   Geoff Johns","['action', 'aventure', 'drame']",7.0,The CW,45.0,"['7', 'octobre', '2014']",octobre,2014
+350,Mr. Robot,7.6,Série de   Sam Esmail,"['drame', 'thriller']",4.0,USA Network,50.0,"['24', 'juin', '2015']",juin,2015
+351,Marvel's Daredevil,7.2,Série de   Drew Goddard,"['action', 'aventure', 'policier']",3.0,Netflix,55.0,"['10', 'avril', '2015']",avril,2015
+352,Sense8,7.3,"Série de   J. Michael Straczynski,   Lilly Wachowski et   Lana Wachowski","['science-fiction', 'drame']",2.0,Netflix,55.0,"['5', 'juin', '2015']",juin,2015
+353,Narcos,7.7,"Série de   Doug Miro,   Carlo Bernard et   Chris Brancato","['policier', 'drame', 'action']",3.0,Netflix,50.0,"['28', 'août', '2015']",août,2015
+354,Marvel's Jessica Jones,6.7,Série de   Melissa Rosenberg,"['action', 'policier', 'drame']",3.0,Netflix,50.0,"['20', 'novembre', '2015']",novembre,2015
+355,Master of None,7.3,Série de   Alan Yang et   Aziz Ansari,['comédie'],2.0,Netflix,30.0,"['6', 'novembre', '2015']",novembre,2015
+356,Man Seeking Woman,7.2,Série de   Simon Rich,"['fantastique', 'comédie']",3.0,FX,30.0,"['14', 'janvier', '2015']",janvier,2015
+357,Le Maître du Haut-Château,7.0,Série de   Frank Spotnitz,"['drame', 'thriller']",4.0,Prime Video,60.0,"['15', 'janvier', '2015']",janvier,2015
+358,Bloodline,7.0,"Série de   Glenn Kessler,   Todd A. Kessler et   Daniel Zelman","['thriller', 'drame']",3.0,Netflix,60.0,"['20', 'mars', '2015']",mars,2015
+359,UnREAL,6.9,Série de   Marti Noxon et   Sarah Gertrude Shapiro,['drame'],4.0,Hulu,45.0,"['1', 'juin', '2015']",juin,2015
+360,Stranger Things,7.7,Série de   Matt Duffer et   Ross Duffer,"['science-fiction', 'fantastique', 'épouvante-horreur']",4.0,Netflix,51.0,"['15', 'juillet', '2016']",juillet,2016
+361,Westworld,7.7,Série de   Jonathan Nolan et   Lisa Joy,"['science-fiction', 'western', 'thriller']",3.0,HBO,58.0,"['2', 'octobre', '2016']",octobre,2016
+362,The Night Of,8.0,Série de   Richard Price et   Steven Zaillian,"['drame', 'mini-série', 'thriller']",1.0,HBO,60.0,"['10', 'juillet', '2016']",juillet,2016
+363,22.11.63,7.1,Série de   Bridget Carpenter,"['science-fiction', 'mini-série', 'drame']",1.0,Hulu,50.0,"['15', 'février', '2016']",février,2016
+364,American Crime Story,7.6,Série de   Scott Alexander et   Larry Karaszewski,"['policier', 'drame', 'judiciaire']",3.0,FX,52.0,"['2', 'février', '2016']",février,2016
+365,The OA,7.2,Série de   Brit Marling et   Zal Batmanglij,"['fantastique', 'thriller', 'science-fiction']",2.0,Netflix,71.0,"['16', 'décembre', '2016']",décembre,2016
+366,Atlanta,7.9,Série de   Donald Glover,"['comédie', 'drame']",2.0,FX,25.0,"['6', 'septembre', '2016']",septembre,2016
+367,Preacher,7.0,"Série de   Seth Rogen,   Evan Goldberg et   Sam Catlin","['fantastique', 'drame', 'action']",4.0,AMC,40.0,"['22', 'mai', '2016']",mai,2016
+368,The Crown,7.5,Série de   Peter Morgan,"['drame', 'historique']",4.0,Netflix,57.0,"['4', 'novembre', '2016']",novembre,2016
+369,Vinyl,7.1,"Série de   Mick Jagger,   Martin Scorsese,   Rich Cohen...","['drame', 'musique']",1.0,HBO,50.0,"['14', 'février', '2016']",février,2016
+370,The Get Down,7.3,Série de   Baz Luhrmann et   Stephen Adly Guirgis,['drame'],1.0,Netflix,60.0,"['12', 'août', '2016']",août,2016
+371,Lastman,8.2,Dessin animé de   Jérémie Périn,"['animation', 'action']",1.0,France 4,15.0,"['22', 'novembre', '2016']",novembre,2016
+372,"Dirk Gently, détective holistique",7.5,Série de   Max Landis,"['comédie', 'thriller', 'policier']",2.0,BBC America,45.0,"['22', 'octobre', '2016']",octobre,2016
+373,The Night Manager,7.2,Série de   Susanne Bier,"['thriller', 'policier', 'drame']",1.0,BBC One,60.0,"['22', 'août', '2016']",août,2016
+374,Marvel's Luke Cage,6.1,Série de   Cheo Hodari Coker,"['policier', 'drame', 'action']",2.0,Netflix,55.0,"['30', 'septembre', '2016']",septembre,2016
+375,This Is Us,7.6,Série de   Dan Fogelman,['drame'],5.0,NBC,43.0,"['13', 'septembre', '2016']",septembre,2016
+376,Fleabag,8.0,Série de   Phoebe Waller-Bridge,"['comédie', 'drame']",2.0,BBC Three,25.0,"['21', 'juillet', '2016']",juillet,2016
+377,Love,6.5,"Série de   Judd Apatow,   Paul Rust et   Lesley Arfin","['comédie', 'drame']",3.0,Netflix,30.0,"['19', 'février', '2016']",février,2016
+378,BrainDead,7.3,Série de   Michelle King et   Robert King,"['comédie', 'thriller', 'drame']",1.0,CBS,45.0,"['13', 'juin', '2016']",juin,2016
+379,Erased,7.9,Anime de   Kishimoto Taku et   Tomohiko Itou,"['fantastique', 'drame', 'animation']",1.0,Fuji TV,25.0,"['8', 'janvier', '2016']",janvier,2016
+380,Quarry,7.5,Série de   Michael D. Fuller et   Graham Gordy,"['thriller', 'policier', 'drame']",1.0,Cinemax,55.0,"['9', 'septembre', '2016']",septembre,2016
+381,The Young Pope,7.5,Série de   Paolo Sorrentino,"['drame', 'mini-série']",1.0,Sky Atlantic (IT),57.0,"['21', 'octobre', '2016']",octobre,2016
+382,Baron Noir,7.4,Série de   Eric Benzekri et   Jean-Baptiste Delafon,"['drame', 'thriller']",3.0,Canal+,55.0,"['8', 'février', '2016']",février,2016
+383,The Good Place,7.0,Série de   Michael Schur,"['comédie', 'romance', 'fantastique']",4.0,NBC,25.0,"['19', 'septembre', '2016']",septembre,2016
+384,Lucifer,6.3,Série de   Tom Kapinos,"['fantastique', 'comédie', 'policier']",6.0,Netflix,45.0,"['25', 'janvier', '2016']",janvier,2016
+385,The Haunting of Hill House,7.6,Série de   Mike Flanagan,"['épouvante-horreur', 'anthologique', 'thriller']",2.0,Netflix,56.0,"['12', 'octobre', '2018']",octobre,2018
+386,Sharp Objects,7.6,Série de   Marti Noxon,"['mini-série', 'drame', 'thriller']",1.0,HBO,52.0,"['1', 'juillet', '2018']",juillet,2018
+387,Maniac,7.0,Série de   Patrick Somerville et   Cary Joji Fukunaga,"['science-fiction', 'mini-série', 'comédie']",1.0,Netflix,40.0,"['21', 'septembre', '2018']",septembre,2018
+388,Altered Carbon,6.6,Série de   Laeta Kalogridis,"['action', 'drame', 'science-fiction']",2.0,Netflix,50.0,"['2', 'février', '2018']",février,2018
+389,The Terror,7.2,"Série de   David Kajganich,   Alexander Woo et   Max Borenstein","['aventure', 'drame', 'épouvante-horreur']",2.0,AMC,50.0,"['26', 'mars', '2018']",mars,2018
+390,Devilman Crybaby,7.5,Anime de   Masaaki Yuasa et   Gô Nagai,"['drame', 'fantastique', 'épouvante-horreur']",1.0,Netflix,30.0,"['5', 'janvier', '2018']",janvier,2018
+391,Killing Eve,7.4,Série de   Phoebe Waller-Bridge,"['thriller', 'policier', 'drame']",4.0,AMC,40.0,"['8', 'avril', '2018']",avril,2018
+392,Bodyguard,7.1,Série de   Jed Mercurio,"['thriller', 'policier', 'drame']",2.0,BBC One,60.0,"['26', 'août', '2018']",août,2018
+393,Barry,7.3,Série de   Bill Hader et   Alec Berg,"['comédie', 'policier', 'drame']",3.0,HBO,30.0,"['25', 'mars', '2018']",mars,2018
+394,Désenchantée,6.3,Dessin animé de   Matt Groening,"['fantastique', 'comédie', 'animation']",1.0,Netflix,30.0,"['17', 'août', '2018']",août,2018
+395,Pose,8.0,"Série de   Steven Canals,   Brad Falchuk et   Ryan Murphy",['drame'],3.0,FX,45.0,"['3', 'juin', '2018']",juin,2018
+396,Kidding,7.6,Série de   Dave Holstein,"['comédie', 'drame']",2.0,Showtime,30.0,"['9', 'septembre', '2018']",septembre,2018
+397,Vermin,7.6,"Dessin animé de   Alexis Beaumont,   Hafid F. Benamar et   Balak","['comédie', 'animation', 'action']",Inconnu,Blackpills,10.0,"['9', 'avril', '2018']",avril,2018
+398,Les Nouvelles Aventures de Sabrina,6.5,Série de   Roberto Aguirre-Sacasa,"['aventure', 'drame', 'fantastique']",2.0,Netflix,55.0,"['26', 'octobre', '2018']",octobre,2018
+399,Homecoming,7.3,"Série de   Eli Horowitz,   Micah Bloomberg et   Sam Esmail","['drame', 'thriller']",2.0,Prime Video,30.0,"['2', 'novembre', '2018']",novembre,2018
+400,Succession,7.9,Série de   Jesse Armstrong,['drame'],3.0,HBO,59.0,"['3', 'juin', '2018']",juin,2018
+401,The Little Drummer Girl,7.3,Série de   Park Chan-wook,"['thriller', 'mini-série', 'policier']",1.0,BBC One,60.0,"['28', 'octobre', '2018']",octobre,2018
+402,Hippocrate,7.5,Série de   Thomas Lilti,"['drame', 'médical']",1.0,Canal+,50.0,"['26', 'novembre', '2018']",novembre,2018
+403,Waco,7.2,Série de   Drew Dowdle et   John Erick Dowdle,"['mini-série', 'policier', 'drame']",1.0,Paramount Network,45.0,"['24', 'janvier', '2018']",janvier,2018
+404,Patrick Melrose,7.4,Série de   David Nicholls,"['mini-série', 'drame']",1.0,Showtime,56.0,"['12', 'mai', '2018']",mai,2018
+405,You,6.2,Série de   Sera Gamble et   Greg Berlanti,"['policier', 'drame', 'romance']",2.0,Netflix,50.0,"['9', 'septembre', '2018']",septembre,2018
+406,Narcos : Mexico,7.2,"Série de   Doug Miro,   Carlo Bernard et   Chris Brancato","['action', 'aventure', 'policier']",2.0,Netflix,55.0,"['16', 'novembre', '2018']",novembre,2018
+407,Violet Evergarden,7.3,"Anime de   Taichi Ishidate,   Kana Akatsuki,   Haruka Fujita...","['romance', 'fantasy', 'guerre']",1.0,Tokyo MX,25.0,"['11', 'janvier', '2018']",janvier,2018
+408,Escape at Dannemora,7.5,Série de   Brett Johnson et   Michael Tolkin,"['drame', 'mini-série']",1.0,Showtime,60.0,"['18', 'novembre', '2018']",novembre,2018
+409,The Looming Tower,7.3,"Série de   Dan Futterman,   Alex Gibney et   Lawrence Wright","['thriller', 'mini-série', 'drame']",1.0,Hulu,50.0,"['28', 'février', '2018']",février,2018
+410,Chernobyl,8.5,Série de   Craig Mazin,"['drame', 'historique', 'mini-série']",1.0,HBO,65.0,"['6', 'mai', '2019']",mai,2019
+411,The Boys,7.7,Série de   Eric Kripke,"['fantastique', 'action']",3.0,Prime Video,60.0,"['26', 'juillet', '2019']",juillet,2019
+412,Watchmen,7.8,Série de   Damon Lindelof,"['drame', 'fantastique', 'mini-série']",1.0,HBO,60.0,"['20', 'octobre', '2019']",octobre,2019
+413,"Love, Death & Robots",7.4,Dessin animé de   Tim Miller,"['science-fiction', 'fantastique', 'épouvante-horreur']",1.0,Netflix,10.0,"['15', 'mars', '2019']",mars,2019
+414,Sex Education,7.1,Série de   Laurie Nunn,"['comédie', 'drame']",3.0,Netflix,51.0,"['11', 'janvier', '2019']",janvier,2019
+415,Euphoria,7.8,Série de   Sam Levinson,['drame'],2.0,HBO,54.0,"['16', 'juin', '2019']",juin,2019
+416,The Mandalorian,7.0,Série de   Jon Favreau,"['action', 'aventure', 'science-fiction']",2.0,Disney+,39.0,"['12', 'novembre', '2019']",novembre,2019
+417,The Umbrella Academy,6.8,Série de   Jeremy Slater et   Steve Blackman,"['fantastique', 'action', 'drame']",2.0,Netflix,47.0,"['15', 'février', '2019']",février,2019
+418,Years and Years,7.7,Série de   Russell T. Davies,"['mini-série', 'drame']",1.0,BBC One,60.0,"['14', 'mai', '2019']",mai,2019
+419,Dans leur regard,8.1,Série de   Ava DuVernay,"['thriller', 'mini-série']",1.0,Netflix,64.0,"['31', 'mai', '2019']",mai,2019
+420,Poupée russe,6.9,"Série de   Amy Poehler,   Natasha Lyonne et   Leslye Headland","['comédie', 'dramatique']",2.0,Netflix,30.0,"['1', 'février', '2019']",février,2019
+421,The Witcher,6.5,Série de   Lauren Schmidt Hissrich,"['aventure', 'fantasy']",1.0,Netflix,60.0,"['20', 'décembre', '2019']",décembre,2019
+422,Kingdom,7.3,Drama de   Kim Sung-hoon,"['épouvante-horreur', 'historique']",2.0,Netflix,55.0,"['25', 'janvier', '2019']",janvier,2019
+423,Good Omens,7.2,Série de   Neil Gaiman,"['comédie', 'mini-série', 'fantastique']",1.0,Prime Video,60.0,"['31', 'mai', '2019']",mai,2019
+424,Unbelievable,7.7,"Série de   Susannah Grant,   Michael Chabon et   Ayelet Waldman","['policier', 'drame', 'mini-série']",1.0,Netflix,45.0,"['13', 'septembre', '2019']",septembre,2019
+425,Dark Crystal : Le Temps de la résistance,7.7,Dessin animé de   Jeffrey Addiss et   Will Matthews,"['fantasy', 'aventure', 'jeunesse']",1.0,Netflix,50.0,"['30', 'août', '2019']",août,2019
+426,His Dark Materials : À la croisée des mondes,6.9,Série de   Jack Thorne,"['action', 'aventure', 'fantasy']",2.0,BBC One,57.0,"['3', 'novembre', '2019']",novembre,2019
+427,After Life,7.3,Série de   Ricky Gervais,"['comédie', 'drame']",3.0,Netflix,28.0,"['8', 'mars', '2019']",mars,2019
+428,Too Old to Die Young,6.9,Série de   Ed Brubaker et   Nicolas Winding Refn,"['policier', 'drame']",1.0,Prime Video,76.0,"['14', 'juin', '2019']",juin,2019
+429,What We Do In The Shadows,7.4,Série de   Jemaine Clement,"['comédie', 'épouvante-horreur']",3.0,FX,23.0,"['27', 'mars', '2019']",mars,2019
+430,Undone,7.6,Dessin animé de   Kate Purdy et   Raphael Bob-Waksberg,"['animation', 'drame', 'fantastique']",2.0,Prime Video,25.0,"['13', 'septembre', '2019']",septembre,2019
+431,Carnival Row,6.8,Série de   René Echevarria et   Travis Beacham,"['fantastique', 'thriller', 'policier']",2.0,Prime Video,50.0,"['30', 'août', '2019']",août,2019
+432,Notre planète,8.5,"Série de   David Attenborough,   Adam Chapman,   Hugh Pearson...","['documentaire', 'mini-série']",1.0,Netflix,50.0,"['5', 'avril', '2019']",avril,2019
+433,L'Effondrement,7.5,"Série de   Guillaume Desjardins,   Jérémy Bernard et   Bastien Ughetto","['mini-série', 'drame']",1.0,Canal+,20.0,"['11', 'novembre', '2019']",novembre,2019
+434,L'Attaque des Titans 3 - Partie 2,8.7,"Anime de   Yasuko Kobayashi,   Hajime Isayama,   Masashi Koizuka...","['guerre', 'épouvante-horreur', 'shōnen']",1.0,NHK,25.0,"['29', 'avril', '2019']",avril,2019
