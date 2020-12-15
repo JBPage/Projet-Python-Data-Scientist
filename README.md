@@ -15,4 +15,4 @@ Le notebook traitement_data s'occupe de la transformation des informations extra
 Dans projet_visualisation, on s'intéresse à décrire le jeu de donnée selon les informations que l'on a extraites de SensCritique. On regarde ainsi, s'il en exite un dont les variations de valeurs sont discriminantes pour la note.
 
 Dans régression_linéaire, on appliquera un modèle de régression linéaire au jeu de donnée, ce qui permettra de déterminer l'impact des différents critères sur la note.
-On retrouve également le jeu de donnée après extraction, traitement et transformation pour la régression.
+On retrouve également le jeu de donnée après extraction (data), traitement (data_final) et transformation pour la régression (data_reg).
